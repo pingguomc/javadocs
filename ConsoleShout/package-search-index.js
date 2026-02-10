@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"top.redstarmc.plugin.consoleshout"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
